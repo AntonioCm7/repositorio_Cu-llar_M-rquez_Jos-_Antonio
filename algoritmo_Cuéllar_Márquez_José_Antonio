@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+ESTE SOY YO.
+</title>
+</head>
+<body>
+<p>Mi nombre es Jose Antonio Cuellar, tengo 18 anyos. Tengo un hermano pequenyo, me gusta mucho el deporte y los animales</p>
+<a href="https://subefotos.com/ver/?a5c5968803a9074a3ad7708b25c5d143o.png" target="_blank"><img src="http://thumbs.subefotos.com/a5c5968803a9074a3ad7708b25c5d143o.jpg" /></a>
+<P>Formulario base</p>
+	<form action="PaginaResultado.php">
+		Nombre:<br>
+		<input type="text" name="nombre">
+		<br>
+		Apellidos:<br>
+		<input type="text" name="Apellidos"> 
+		<br>
+		sexo:<br>
+			<input type="radio" name="genero" value="Hombre" checked> Hombre<br>
+			<input type="radio" name="genero" value="Mujer" checked> Mujer<br>
+			<input type="submit" value="Enviar"
+		</form>
+		
+		
+		
+</P>
+</body>
+</html>
+
+
